@@ -1,0 +1,141 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+footer {
+	text-align: center;
+	background: #334859;
+	padding-top: 23px;
+	padding-bottom: 23px;
+	margin:auto;
+	font-family: inherit;
+ 	line-height: 1.5;
+ 	color: white;
+ 	font-size: 20px;
+}
+h1 {
+	text-align: center;
+}
+
+.buttons {	
+	padding-bottom:10px;
+}
+.buttons a {
+	padding: 10px;
+}
+.selected {
+	font-weight: bold;
+}
+.article {
+	margin: auto;
+	border-radius: 10px;
+	width: 95%;
+	background: #E1DCCC;
+	box-shadow: 0 0px 3px rgba(0,0,0,0.5);
+
+}
+
+.title {
+	
+	font-weight: 14px;
+	font-weight: bold;
+}
+
+
+.clearfix {
+	content: '';
+	height: 0;
+	clear: both;
+	display: block;
+}
+.date {
+	color: white;
+	text-align: center;
+	width: 145px;
+	height: 20px;
+	background: gray;
+	border-radius: 8px;
+	padding-bottom: 5px;
+	float:right;
+	margin-right: 5px;
+}
+.pag {
+	
+	margin: auto;
+	padding-bottom: 8px;
+	text-align: center; 
+
+}
+.header {
+	margin:auto;
+	padding: 10px;
+	background: #334859;
+}
+
+.main {
+	background: #ececec;
+	
+}
+.add {
+	
+	padding: 10px;
+}
+
+.content {
+	padding: 15px;
+}
+.more {
+	float:right;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.bg {
+	background: url(../style/fon1.png) repeat;
+
+
+}
+.titleart {
+	font-family: inherit;
+	font-size: 20px;
+	margin-left:15px;
+	padding:10px;
+	float:left;
+	
+}
+.eddel {
+	float: right;
+	padding:10px;
+	
+	
+}
+.articleone {
+	padding-top: 20px;
+	padding-bottom: 60px;
+	
+}
+.mainone {
+	padding-bottom: 50px;
+}
+.titleone {
+	padding-left: 20px;
+	text-align: center;
+	
+}
+.formadd {
+	
+	padding-top: 20px;
+}
+.submit {
+	padding: 5px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+
+a.reg {
+	text-decoration: none !important;
+	color: black;
+}
+.form-group.register {
+  margin-bottom: 0px !important;
+}
